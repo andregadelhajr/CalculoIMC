@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\Aula71-ExercicioIMC\bin\Debug\Aula71-ExercicioIMC.exe.config
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\Aula71-ExercicioIMC\bin\Debug\Aula71-ExercicioIMC.exe
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\Aula71-ExercicioIMC\bin\Debug\Aula71-ExercicioIMC.pdb
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\Aula71-ExercicioIMC\obj\Debug\Aula71-ExercicioIMC.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\Aula71-ExercicioIMC\obj\Debug\Aula71-ExercicioIMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\Aula71-ExercicioIMC\obj\Debug\Aula71_ExercicioIMC.Form1.resources
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\Aula71-ExercicioIMC\obj\Debug\Aula71_ExercicioIMC.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\Aula71-ExercicioIMC\obj\Debug\Aula71-ExercicioIMC.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\Aula71-ExercicioIMC\obj\Debug\Aula71-ExercicioIMC.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\Aula71-ExercicioIMC\obj\Debug\Aula71-ExercicioIMC.exe
+C:\Users\Lenovo\Desktop\CastGroup\ProjetosC#\CSharpIntermediario\Aula1-Intermediario\Aula71-ExercicioIMC\obj\Debug\Aula71-ExercicioIMC.pdb
